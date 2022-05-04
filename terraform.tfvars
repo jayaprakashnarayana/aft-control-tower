@@ -1,0 +1,7 @@
+ct_management_account_id    = "566377303192"
+log_archive_account_id      = "783502679574"
+audit_account_id            = "992975496427"
+aft_management_account_id   = "008298205562"
+github_username             = "jayaprakashnarayana"
+ct_home_region              = "us-east-1"
+tf_backend_secondary_region = "us-east-2"
